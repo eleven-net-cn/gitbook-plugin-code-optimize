@@ -7,7 +7,7 @@ require(['gitbook', 'jQuery'], function(gitbook, $) {
 
   function addCopyButton(wrapper) {
     wrapper.append(
-        $('<i class="fa fa-clone t-copy" title=="复制"></i>')
+        $('<i class="fa fa-clone t-copy" title="复制"></i>')
             .click(function() {
               copyCommand($(this));
             })

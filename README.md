@@ -1,4 +1,4 @@
-# gitbook-plugin-code-optimize
+# [gitbook-plugin-code-optimize](https://www.npmjs.com/package/gitbook-plugin-code-optimize)
 
 GitBook 插件，给代码块增加复制按钮，显示行号。fork 自 https://github.com/davidmogar/gitbook-plugin-code ，原始插件不够满足我的开发需求，进行了扩展。
 

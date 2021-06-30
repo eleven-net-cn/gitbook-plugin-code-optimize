@@ -1,17 +1,17 @@
 {
   "name": "gitbook-plugin-code-optimize",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "Gitbook plugin to change style of code blocks",
   "main": "index.js",
   "license": "MIT",
-  "homepage": "https://github.com/Eleven90/gitbook-plugin-code-optimize",
+  "homepage": "https://github.com/eleven-net-cn/gitbook-plugin-code-optimize",
   "author": {
     "name": "David Moreno-García",
     "email": "david.mogar@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Eleven90/gitbook-plugin-code-optimize.git"
+    "url": "git@github.com:eleven-net-cn/gitbook-plugin-code-optimize.git"
   },
   "keywords": [
     "gitbook",
@@ -20,7 +20,7 @@
     "plugin"
   ],
   "bugs": {
-    "url": "https://github.com/Eleven90/gitbook-plugin-code-optimize/issues"
+    "url": "https://github.com/eleven-net-cn/gitbook-plugin-code-optimize/issues"
   },
   "engines": {
     "gitbook": ">2.5.0"
